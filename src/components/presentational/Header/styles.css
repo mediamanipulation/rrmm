@@ -1,0 +1,9 @@
+.header {
+  margin: 2rem 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.header__image {
+  max-width: 100%;
+}
